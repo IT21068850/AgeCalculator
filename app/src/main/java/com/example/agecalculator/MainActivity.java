@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
 
     TextView tv;
     Button btn;
-    EditText et;
+    EditText et,et1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
